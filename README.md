@@ -2,4 +2,4 @@
 
 **Admin Login**<br>
 Username: admin<br>
-Password: admin
+Password: Test@123
